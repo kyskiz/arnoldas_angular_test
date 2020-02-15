@@ -28,7 +28,7 @@
     "rxjs": "~6.2.0",
     "tslib": "^1.9.0",
     "typescript": "3.1.6",
-    "yarn": "^1.16.0",
+    "yarn": "^1.22.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
